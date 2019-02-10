@@ -52,3 +52,16 @@ Error: custom keyword definition is invalid: data/errors should be boolean
 error Command failed with exit code 1.
 info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
 ```
+
+# How to fix
+
+According to this
+
+https://github.com/webpack/webpack/issues/8768#issuecomment-462090847
+
+```
+```
+  "resolutions": {
+    "ajv": "6.8.1"
+  }
+```
