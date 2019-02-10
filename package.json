@@ -6,6 +6,7 @@
   "author": "gosho-kazuya <ketsume0211@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "ajv": "6.8.0",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3"
   }
