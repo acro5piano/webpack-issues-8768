@@ -59,7 +59,7 @@ According to this
 
 https://github.com/webpack/webpack/issues/8768#issuecomment-462090847
 
-```
+
 ```
   "resolutions": {
     "ajv": "6.8.1"
